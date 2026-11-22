@@ -1,0 +1,14 @@
+{
+  "Mandatory": false,
+  "Changelog": [
+    "Lanzamiento oficial TiendaPOS v1.2.0 por GohuSoft",
+    "Asistente inicial obligatorio para crear usuario y PIN privado de Administrador",
+    "Ventas rapidas con lector de barras, multiplicador (5*codigo), granel y bascula",
+    "Inventario, importacion CSV, catalogo mexicano, caducidades y etiquetas CODE128",
+    "Cortes de caja X/Z, corte ciego anti-robo, clientes/fiado y respaldos automaticos"
+  ],
+  "ReleaseDate": "2026-11-22",
+  "Sha256": "62BC70056AFFF1A8E438E597665F91B7EBF5CAC0B2C642CCE338E945F57BB0A9",
+  "DownloadUrl": "https://github.com/Gohux/tiendapos-releases/releases/download/v1.2.0/TiendaPOS_v1.2.0.exe",
+  "Version": "1.2.0"
+}
