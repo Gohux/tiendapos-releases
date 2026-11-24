@@ -1,13 +1,13 @@
 {
-  "Version": "1.2.1",
-  "Changelog": [
-    "Nuevo: Boton para ver HWID y activar licencia directamente desde la pantalla de Login",
-    "Seguridad BD: Proteccion fisica anti-apagones (SQLite WAL FULL), respaldos continuos y autorrecuperacion",
-    "Interfaz: Mayor contraste en tablas/textos e indicador claro de seccion activa en el menu lateral",
-    "Respaldo espejo automatico opcional en memoria USB o carpeta secundaria"
-  ],
   "Mandatory": false,
+  "Version": "1.3.0",
+  "Sha256": "DCF4AF70A6847BB169AC307B4ACF658803AB9C1D78720F8EAC61488550012B31",
   "ReleaseDate": "2026-11-24",
-  "DownloadUrl": "https://github.com/Gohux/tiendapos-releases/releases/download/v1.2.1/TiendaPOS_v1.2.1.exe",
-  "Sha256": "CCCC2795C683C9FC0DEFF3046A60E67763C6C8EAA042B1441107DB60E810BB22"
+  "DownloadUrl": "https://github.com/Gohux/tiendapos-releases/releases/download/v1.3.0/TiendaPOS_v1.3.0.exe",
+  "Changelog": [
+    "Nuevo: Cobro integrado directo en Terminal Mercado Pago Point (Point Smart / Pro / Air)",
+    "Nuevo: Buscador automatico de terminales Point y activacion de modo PDV en Configuracion",
+    "Soporte de Terminal Mercado Pago tanto en cobro total como en Pago Mixto",
+    "Impresion de folio/referencia de orden de terminal en el ticket"
+  ]
 }
